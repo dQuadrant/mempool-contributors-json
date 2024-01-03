@@ -1,10 +1,10 @@
 [
     {
         "name": "Mempool Contributer A",
-        "url": "www.A.com"
+        "url": "https://A.com"
     },
     {
         "name": "Mempool Contributer B",
-        "url": "www.A.com"
+        "url": "https://B.com"
     }
 ]
